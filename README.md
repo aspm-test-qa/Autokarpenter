@@ -15,7 +15,7 @@ Karpenter improves the efficiency and cost of running workloads on Kubernetes cl
 * **Watching** for pods that the Kubernetes scheduler has marked as unschedulable
 * **Evaluating** scheduling constraints (resource requests, nodeselectors, affinities, tolerations, and topology spread constraints) requested by the pods
 * **Provisioning** nodes that meet the requirements of the pods
-* **Removing** the nodes when the nodes are no longer needed
+* **Removing** the nodes when the nodes are no longer needed test
 
 Come discuss Karpenter in the [#karpenter](https://kubernetes.slack.com/archives/C02SFFZSA2K) channel in the [Kubernetes slack](https://slack.k8s.io/) or join the [Karpenter working group](https://karpenter.sh/docs/contributing/working-group/) bi-weekly calls.
 
