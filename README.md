@@ -10,7 +10,7 @@
 test12
 
 Karpenter is an open-source node provisioning project built for Kubernetes.
-Karpenter improves the efficiency and cost of running workloads on Kubernetefs clusters by:
+Karpenter improves the efficiency and cost of running workloads on Kubernetefs clusters by:f
 
 * **Watching** for pods that the Kubernetes scheduler has marked as unschedulable
 * **Evaluating** scheduling constraints (resource requests, nodeselectors, affinities, tolerationcs, and topology spread constraintds) requested by the pods
